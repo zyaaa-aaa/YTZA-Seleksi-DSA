@@ -36,7 +36,6 @@
   - [Program Description](#program-description)
   - [Program Structure](#program-structure)
   - [Module Used](#module-used)
-  - [Running The Program](#how-to-run)
 
 <!-- GENERAL INFORMATION -->
 ## Program Description
